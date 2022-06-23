@@ -41,7 +41,7 @@ está información, contactame.
 
 <h3 align="left">Mi perfil en LinkedIn</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/fernando-segovia-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fernando Segovia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fernando-segovia-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fernando Segovia" height="30" width="40" />https://www.linkedin.com/in/fernando-segovia-dev/</a>
 </p>
 
 <h3 align="left">Mi Correo</h3>
