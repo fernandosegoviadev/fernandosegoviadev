@@ -46,12 +46,12 @@ está información, contactame.
 
 <h3 align="left">Mi Correo</h3>
 <p align="left">
-<a href="mailto:fer_0144@hotmail.com" target="blank"><img align="center" src="https://portal.edu.gva.es/03019007/wp-content/uploads/sites/87/2022/01/Microsoft.png" alt="Correo Fernando Segovia" height="30" width="40" />"fer_0144@hotmail.com"</a>
+<a href="mailto:fer_0144@hotmail.com" target="blank"><img align="center" src="https://portal.edu.gva.es/03019007/wp-content/uploads/sites/87/2022/01/Microsoft.png" alt="Correo Fernando Segovia" height="30" width="40" />fer_0144@hotmail.com</a>
 </p>
 
 <h3 align="left">Mi Portfolio</h3>
 <p align="left">
-<a href="https://portfolio-fernando-segovia.netlify.app/" target="blank"><img align="center" src="https://miro.medium.com/max/768/1*GsuZUucXLICJqiWuwHjfzQ.png" alt="Portfolio Fernando Segovia" height="30" width="40" />"fer_0144@hotmail.com"</a>
+<a href="https://portfolio-fernando-segovia.netlify.app/" target="blank"><img align="center" src="https://miro.medium.com/max/768/1*GsuZUucXLICJqiWuwHjfzQ.png" alt="Portfolio Fernando Segovia" height="30" width="40" />https://portfolio-fernando-segovia.netlify.app/</a>
 </p>
 
 
