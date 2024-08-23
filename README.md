@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Fernando Segovia
 
 I am a passionate Web Developer with expertise in building responsive and user-friendly websites and applications. With a strong foundation in modern web technologies, I strive to create seamless and dynamic user experiences.
 
@@ -6,33 +6,33 @@ I am a passionate Web Developer with expertise in building responsive and user-f
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning [new technology or framework].
+- 🌱 I’m currently learning Python and Django.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about anything related to web development, I'm happy to help!
-- ⚡ Fun fact: [Fun fact about you].
+- 💬 Ask me about anything related to logic exercises with js, I'm happy to help!
+- ⚡ Fun fact: I love studying foreign languages. In fact, I studied French for five years and now I study English.
 
 ---
 
 ## 🛠️ Skills
 
 - **Frontend:**
-  - HTML5, CSS3, JavaScript (ES6+), TypeScript
-  - React.js, Vue.js, Angular
-  - Responsive Design, Bootstrap, Tailwind CSS
+  - HTML5, CSS3, JavaScript (ES6+), TypeScript.
+  - React.js, Vue.js, Next Js, and WordPress.
+  - Responsive Design, Bootstrap, Tailwind CSS, Sass.
 
 - **Backend:**
-  - Node.js, Express.js, Django, Flask
+  - Node.js, Express.js, Django
   - RESTful APIs, GraphQL
   - Database Management (MySQL, PostgreSQL, MongoDB)
 
 - **DevOps:**
   - Git, GitHub, GitLab
-  - CI/CD (Jenkins, GitHub Actions)
-  - Docker, Kubernetes, AWS, Azure
+  - CI/CD (GitHub Actions)
+  - Docker, AWS 
 
 - **Other Tools:**
-  - Webpack, Babel, NPM, Yarn
-  - Testing: Jest, Mocha, Cypress
+  - NPM, Yarn
+  - Testing: Jest, Mocha
   - Agile Methodologies (Scrum, Kanban)
 
 ---
