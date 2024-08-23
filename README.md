@@ -59,9 +59,9 @@ I am a passionate Web Developer with expertise in building responsive and user-f
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandosegoviadev&show_icons=true&theme=radical)](https://github.com/fernandosegoviadev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosegoviadev&layout=compact&theme=radical)](https://github.com/fernandosegoviadev)
 
 ---
 
