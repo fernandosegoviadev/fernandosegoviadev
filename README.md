@@ -67,12 +67,12 @@ I am a passionate Web Developer with expertise in building responsive and user-f
 
 ## 📫 Get in Touch
 
-- **Portfolio:** [your-website.com](https://portfolio-fernando-segovia.netlify.app/)
-- **Email:** [your-email@example.com](mailto:fernandosegoviadev@gmail.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/fernando-segovia-dev)
-- **X:** [x.com/your-handle](https://x.com/NanoSeogvia)
+- **Portfolio:** [fernando-portfolio.com](https://portfolio-fernando-segovia.netlify.app/)
+- **Email:** [fernandosegoviadev@gmail.com](mailto:fernandosegoviadev@gmail.com)
+- **LinkedIn:** [linkedin.com/in/fernando-segovia-dev](https://www.linkedin.com/in/fernando-segovia-dev)
+- **X:** [x.com/NanoSeogvia](https://x.com/NanoSeogvia)
 
-- **🚧 New portfolio in progress:** [your-website.com](https://fernando-s-portfolio.vercel.app/)
+- **🚧 New portfolio in progress:** [fernando-s-portfolio.com](https://fernando-s-portfolio.vercel.app/)
 ---
 
 ### 📝 Latest Blog Posts
