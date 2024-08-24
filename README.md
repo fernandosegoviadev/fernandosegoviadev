@@ -81,11 +81,4 @@ I am a passionate Web Developer with expertise in building responsive and user-f
 - **🚧 New portfolio in progress:** [fernando-s-portfolio.com](https://fernando-s-portfolio.vercel.app/)
 ---
 
-### 📝 Latest Blog Posts
-- [Title of Blog Post 1](link-to-blog-post)
-- [Title of Blog Post 2](link-to-blog-post)
-- [Title of Blog Post 3](link-to-blog-post)
-
----
-
-**Thank you for visiting my profile! Feel free to connect with me and check out my repositories.** 😊
+👋 **Thank you for visiting my profile! Feel free to connect with me and check out my repositories.** 😊
