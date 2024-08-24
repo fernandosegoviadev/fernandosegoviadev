@@ -66,6 +66,19 @@ I am a passionate Web Developer with expertise in building responsive and user-f
 
 ---
 
+### [Actotal Challenge](https://actotal-challenge.vercel.app/home)
+**Description:** Actotal Challenge is a project I had the opportunity to create for my current company. It is a single-page application designed to create and edit records in a proprietary database within a 72-hour timeframe.
+
+**Note:** The API is hosted on Render, and it may take 3-5 minutes to respond initially, as it is in a "sleeping" state. It will wake up and become fully responsive a few minutes after the first request.
+
+**Tech Stack:** Node Js, Express, Mongo DB, React (typical MERN combination).
+
+**Repositories:**
+[API Repositoy Link](https://github.com/fernandosegoviadev/ACTotal-Challenge---Client)
+[Client Repositoy Link](https://github.com/fernandosegoviadev/ACTotal-Challenge---API)
+
+---
+
 ## 📈 GitHub Stats
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandosegoviadev&show_icons=true&theme=radical)](https://github.com/fernandosegoviadev)
