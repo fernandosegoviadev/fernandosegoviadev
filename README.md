@@ -57,6 +57,15 @@ I am a passionate Web Developer with expertise in building responsive and user-f
 
 ---
 
+### [Octofinder](https://octocat-finder.vercel.app/)
+**Description:** Octofinder is a small project designed to help you find GitHub profiles by username. Once you locate the profile you're looking for, you can quickly and easily view its public information.
+
+**Tech Stack:** Vite Js and Mui styles library.
+
+**Repository:** [GitHub Link](https://github.com/fernandosegoviadev/vite-react-material-ui)
+
+---
+
 ## 📈 GitHub Stats
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandosegoviadev&show_icons=true&theme=radical)](https://github.com/fernandosegoviadev)
