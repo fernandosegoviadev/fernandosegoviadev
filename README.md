@@ -39,24 +39,6 @@ I am a passionate Web Developer with expertise in building responsive and user-f
 
 ## 📂 Projects
 
-### [Project Name](link-to-project)
-**Description:** Brief description of what the project does and its key features.
-
-**Tech Stack:** List the technologies used (e.g., React.js, Node.js, MongoDB)
-
-**Repository:** [GitHub Link](link-to-repo)
-
----
-
-### [Another Project](link-to-project)
-**Description:** Brief description of what the project does and its key features.
-
-**Tech Stack:** List the technologies used (e.g., Vue.js, Firebase, Tailwind CSS)
-
-**Repository:** [GitHub Link](link-to-repo)
-
----
-
 ### [Octofinder](https://octocat-finder.vercel.app/)
 **Description:** Octofinder is a small project designed to help you find GitHub profiles by username. Once you locate the profile you're looking for, you can quickly and easily view its public information.
 
