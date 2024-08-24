@@ -77,6 +77,8 @@ I am a passionate Web Developer with expertise in building responsive and user-f
 [API Repositoy Link](https://github.com/fernandosegoviadev/ACTotal-Challenge---Client)
 [Client Repositoy Link](https://github.com/fernandosegoviadev/ACTotal-Challenge---API)
 
+**Note:** Let me know if you need access to the previous repositories. They are private at the request of Actotal, but I can share them with you if I know who you are.
+
 ---
 
 ## 📈 GitHub Stats
